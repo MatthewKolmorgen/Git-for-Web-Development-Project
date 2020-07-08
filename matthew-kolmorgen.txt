@@ -158,4 +158,4 @@ Block elements <p> <li> <h1>, inline elements <span> <strong>, inline-block <but
 
 5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them?
 The box model is how we move the elements from HTML to where we want them.
-By making our websites responsive.
+By using box-sizing: border-box
